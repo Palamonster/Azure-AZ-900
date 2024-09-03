@@ -10,3 +10,6 @@ https://portal.azure.com
 
 // Plataforma de DIO
 https://www.dio.me
+
+//Google Drive para pasta com arquivos digitados e resumos
+https://drive.google.com/drive/folders/1KmJLQOCwjXC3skVAPprdo6CwAfC1hdJ7?usp=drive_link
